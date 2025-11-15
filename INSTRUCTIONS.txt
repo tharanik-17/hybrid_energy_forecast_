@@ -1,0 +1,9 @@
+
+INSTRUCTIONS - Quick Start
+
+1) Open notebooks/Week2_full_pipeline.ipynb in Google Colab.
+2) The notebook uses data/processed/cleaned_hybrid_energy_sample.csv by default for demo.
+3) To use your real data, place cleaned_hybrid_energy.csv into data/processed/ and rerun the notebook.
+4) To run Streamlit locally:
+   pip install -r requirements.txt
+   streamlit run app.py
